@@ -50,3 +50,24 @@ header nav ul li a {
 section {
     padding: 50px 100px;
 }
+
+div img {
+
+    width: 50%;
+}
+
+#om-oss {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+#om-oss h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#om-oss p {
+    font-size: 16px;
+    line-height: 1.5;
+}
